@@ -1,4 +1,4 @@
 reactivejs
 ==========
 
-A framework MVC for JavaScript
+A MVC framework for JavaScript
